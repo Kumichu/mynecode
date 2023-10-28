@@ -1,1 +1,1 @@
-print('Tect')
+print('Test')
